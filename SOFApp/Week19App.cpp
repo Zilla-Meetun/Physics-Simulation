@@ -188,11 +188,10 @@ void Week19App::Update(float deltaT)
 
 	if (SOF::Window::IsKeyPressed(GLFW_KEY_SPACE))
 	{
-		if (SOF::Window::IsKeyDown(GLFW_KEY_H))
-			Shoot(true);
-		else
-			Shoot(false);
+		Shoot(false);
 	}
+	if (SOF::Window::IsKeyPressed(GLFW_KEY_H))
+		Shoot(true);
 }
 
 

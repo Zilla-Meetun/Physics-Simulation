@@ -1,1 +1,2 @@
 C:\Users\zilla\OneDrive\Documents\Education\Final year\Graphics\week19start\SOF\Debug\SOF.lib
+C:\Users\zilla\OneDrive\Documents\Portfolio\PhysicsSimulation\Physics-Simulation\SOF\Debug\SOF.lib
